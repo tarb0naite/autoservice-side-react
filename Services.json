@@ -1,0 +1,59 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "type": "Engine",
+      "subServices": [
+        {"id": 11, "name": "Oil Change"},
+        {"id": 12, "name": "Spark Plug Replacement"},
+        {"id": 13, "name": "Engine Tune-up"}
+      ]
+     
+    },
+    {
+      "id": 2,
+      "type": "Exterior"
+    },
+    {
+      "id": 3,
+      "type": "Interior Services"
+    },
+    {
+      "id": 4,
+      "type": "Tire and Wheel Services"
+    },
+    {
+      "id": 5,
+      "type": "Electrical Services"
+    
+    },
+    {
+      "id": 6,
+      "type": "Brake Services"
+    },
+    {
+      "id": 7,
+      "type": "Transmission Services"
+    },
+    {
+      "id": 8,
+      "type": "Suspension Services"
+    },
+    {
+      "id": 9,
+      "type": "Fluid Services"
+    },
+    {
+      "id": 10,
+      "type": "Exhaust System Services"
+    },
+    {
+      "id": 11,
+      "type": "Air Conditioning Services"
+    },
+    {
+      "id": 12,
+      "type": "Safety Inspection Services"
+    }
+  ]
+}
